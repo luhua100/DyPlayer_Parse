@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.11.2)
+  - HandyJSON (5.0.2)
+  - ObjectMapper (4.4.2)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+  - ObjectMapper
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HandyJSON
+    - ObjectMapper
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 400275dd1c6d87d95a041861d2a59da4b520a203
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  ObjectMapper: e6e4d91ff7f2861df7aecc536c92d8363f4c9677
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: fea27a5f3a4bfaffb7f02e23001ce1d684519dc0
+
+COCOAPODS: 1.16.2
